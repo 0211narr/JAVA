@@ -3,7 +3,7 @@ public class DataType {
 		
 		byte	myByte 	= 1;		System.out.println(myByte	);
 		short	myShort	= 2;		System.out.println(myShort	);
-		int		myInt 	= 3;		System.out.println(myInt	);
+		int	myInt 	= 3;		System.out.println(myInt	);
 		long	myLong 	= 4L;		System.out.println(myLong	);
 		boolean	myBool 	= false;	System.out.println(myBool	);
 		char 	myChar 	= 'a';		System.out.println(myChar	);
